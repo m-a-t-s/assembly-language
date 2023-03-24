@@ -15,4 +15,3 @@ _start:
         mov     rdi, 0
         syscall
 
-
